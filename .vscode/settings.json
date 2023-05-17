@@ -1,0 +1,10 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.enablePaths": [
+    "./packages/api",
+    "./packages/web",
+  ],
+  "deno.config": "./deno.json",
+  "deno.importMap": "./workspace-import-map.json",
+}
