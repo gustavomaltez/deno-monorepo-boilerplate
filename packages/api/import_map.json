@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "testing/asserts": "https://deno.land/std@0.160.0/testing/asserts.ts",
+    "oak": "https://deno.land/x/oak@v12.3.0/mod.ts"
+  }
+}
